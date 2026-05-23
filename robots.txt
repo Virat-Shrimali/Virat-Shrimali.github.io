@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Virat-Shrimali.github.io/sitemap.xml
+Sitemap: https://virat-shrimali.github.io/sitemap.xml
